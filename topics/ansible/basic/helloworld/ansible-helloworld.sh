@@ -13,7 +13,7 @@ check_tool_exist() {
   fi
 }
 
-console_log "Checking if Ansile is installed"
+console_log "Checking if Ansible is installed"
 check_tool_exist
 
 console_log "Checking Ansible version"
